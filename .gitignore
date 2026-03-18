@@ -8,3 +8,5 @@ coverage
 backend/uploads
 .DS_Store
 .vscode
+backend/.env
+frontend/.env
